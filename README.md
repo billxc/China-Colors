@@ -22,7 +22,8 @@
 
 
 # China Color Table
-
+# Http Version
+https://xcc.moe/China-Colors/
 
 | Color | Name | Pinyin | Hex |
 | --- | --- | --- | --- |
@@ -50,4 +51,7 @@
 
 
 ## Links
-[https://www.bilibili.com/video/BV1C8411F7ja/]
+color source: https://www.bilibili.com/video/BV1C8411F7ja/
+
+
+font source: https://github.com/atelier-anchor/smiley-sans
